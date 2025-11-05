@@ -1,16 +1,16 @@
-# 🎨 Meu Portfólio de Projetos
+# Meu Portfólio de Projetos
 
-Bem-vindo(a)! Sou **Engenheiro de Dados**, com experiência em pipelines **ETL/ELT**, **Airflow**, **SQL avançado**, **Spark** e **Data Lakes**.  
-Possuo sólidos conhecimentos em **Python**, incluindo POO e algoritmos aplicados à resolução de problemas com dados.  
-Tenho experiência prática com **AWS**, abrangendo ingestão, processamento e governança nas camadas **Bronze, Silver e Gold** com serviços como **S3**, **Glue**, **EMR** e **Lake Formation**.  
-
-Além disso, atuei profissionalmente como **Desenvolvedor Back-End** com **Node.js**, realizando modelagem e normalização de bancos relacionais e integrações com **Prisma ORM**.  
-Também desenvolvo **dashboards e visualizações de dados** utilizando **Power BI** e possuo noções de **Tableau**.
+Bem-vindoss! Sou **Engenheiro de Dados**, com experiência em pipelines **ETL/ELT**, **Airflow**, **SQL avançado**, **Spark** e **Data Lakes**, Power BI, Tableau, AWS.  
+- Possuo sólidos conhecimentos em **Python**, incluindo POO e algoritmos aplicados à resolução de problemas com dados.  
+- Tenho experiência prática com **AWS**, abrangendo ingestão, processamento e governança nas camadas **Bronze, Silver e Gold** com serviços como **S3**, **Glue**, **EMR** e **Lake Formation**.  
+- Criação de DW e Bancos SQL normalizados (3FN).
+- Além disso, atuei profissionalmente como **Desenvolvedor Back-End** com **Node.js**, realizando modelagem e normalização de bancos relacionais e integrações com **Prisma ORM**.  
+- Também desenvolvo **dashboards e visualizações de dados** utilizando **Power BI** e **Tableau**.
 
 
 ---
 
-## 🧠 Projetos de Dados
+## Projetos de Dados
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
@@ -22,15 +22,25 @@ Também desenvolvo **dashboards e visualizações de dados** utilizando **Power 
 ---
 
 
-## 🐍 Projetos em Python e Algoritmos
+## Projetos em Python e Algoritmos
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
 | [**LeetCode - Estruturas de Dados e Algoritmos em Python**](https://github.com/pedropmoreira/leetcode_estruturas-dados) | Repositório dedicado à resolução de **exercícios de algoritmos e estruturas de dados** da plataforma **LeetCode**, utilizando **Python**. Contém implementações e análises de problemas clássicos como **Two Sum**, **Linked List Cycle**, **Merge Two Sorted Lists**, **Smart BubbleSort**, entre outros. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff) ![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?logo=python&logoColor=fff) ![Data Structures](https://img.shields.io/badge/Data_Structures-4B8BBE?logo=python&logoColor=fff) |
+
+
+
+---
+
+## Power BI e Tableau
+| Projeto | Descrição | Tecnologias |
+|----------|------------|-------------|
+| [**Dashboard Power BI: Petshop Analysis**](https://github.com/pedropmoreira/dashboard-petshop) | Repositório dedicado à construção de um dashboard da rede de petshops **Gatito Petshop** utilizando **Power BI**. | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000) |
+
+
+
 ## 📬 Contato
-
 💼 **LinkedIn:** [linkedin.com/in/pedropmoreira](https://linkedin.com/in/pedropmor)  
-
 
 ---
 
